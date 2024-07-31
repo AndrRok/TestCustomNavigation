@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		621550792C5A53140093360D /* SubscriptHW.swift in Sources */ = {isa = PBXBuildFile; fileRef = 621550782C5A53140093360D /* SubscriptHW.swift */; };
 		62C62F2F2C484B1E00FAD1E7 /* TestCustomNavigationApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62C62F2E2C484B1E00FAD1E7 /* TestCustomNavigationApp.swift */; };
 		62C62F312C484B1E00FAD1E7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62C62F302C484B1E00FAD1E7 /* ContentView.swift */; };
 		62C62F332C484B2000FAD1E7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 62C62F322C484B2000FAD1E7 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		621550782C5A53140093360D /* SubscriptHW.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubscriptHW.swift; sourceTree = "<group>"; };
 		62C62F2B2C484B1E00FAD1E7 /* TestCustomNavigation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestCustomNavigation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		62C62F2E2C484B1E00FAD1E7 /* TestCustomNavigationApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestCustomNavigationApp.swift; sourceTree = "<group>"; };
 		62C62F302C484B1E00FAD1E7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -33,6 +35,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		621550752C5A52960093360D /* HW6 */ = {
+			isa = PBXGroup;
+			children = (
+				621550782C5A53140093360D /* SubscriptHW.swift */,
+			);
+			path = HW6;
+			sourceTree = "<group>";
+		};
 		62C62F222C484B1E00FAD1E7 = {
 			isa = PBXGroup;
 			children = (
@@ -52,6 +62,7 @@
 		62C62F2D2C484B1E00FAD1E7 /* TestCustomNavigation */ = {
 			isa = PBXGroup;
 			children = (
+				621550752C5A52960093360D /* HW6 */,
 				62C62F2E2C484B1E00FAD1E7 /* TestCustomNavigationApp.swift */,
 				62C62F302C484B1E00FAD1E7 /* ContentView.swift */,
 				62C62F322C484B2000FAD1E7 /* Assets.xcassets */,
@@ -139,6 +150,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				621550792C5A53140093360D /* SubscriptHW.swift in Sources */,
 				62C62F312C484B1E00FAD1E7 /* ContentView.swift in Sources */,
 				62C62F2F2C484B1E00FAD1E7 /* TestCustomNavigationApp.swift in Sources */,
 			);
